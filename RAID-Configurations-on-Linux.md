@@ -1,4 +1,4 @@
-# RAID Configurations on Linux
+# RAID Configurations on Linux 🚧(in progress)
 #SECURITY #RAID #Linux #Debian #RAID0
 #Debian-Based #RAID Array# #How To# #System Administration#
 - - -
@@ -12,14 +12,14 @@
 - - -
 
 ## Made an RAID Array
-1. **How To: Preparing an Disk to be used with a _Full-Disk Encryption_.**
-2. **How To: Preparing an Disk to be used in an _RAID Array_.**
-3. [**How To: Made an *RAID0* with madam**](%23%5B%5BMade%20an%20RAID0%20with%20madam%5D%5D)
+1. **How To: Preparing an Disk to be used with a _Full-Disk Encryption_.** ❌(later in docs)
+2. **How To: Preparing an Disk to be used in an _RAID Array_.** ❌(later in docs)
+3. **How To: Made an _RAID0_ with _madam_.** 🚧(in progress)
 
 
 - - -
 >  **Step 3 :** ~Made an RAID Array~
-### [[Made an RAID0 with madam]]
+### Made an RAID0 with madam 🚧(in progress)
 
 > *To make a **Debian Linux** **operating system** **bootable** on a system disk using **RAID0** with **`mdadm`** and **USB flash drives**, follow these steps:*
 
